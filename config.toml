@@ -1,4 +1,4 @@
-baseURL = 'http://herstell.org/'
+baseURL = 'http://dannyherstell.github.io'
 languageCode = 'en-us'
 title = 'danny herstell'
 theme = "PaperMod"
